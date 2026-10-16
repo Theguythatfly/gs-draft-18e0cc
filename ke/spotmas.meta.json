@@ -1,0 +1,58 @@
+{
+ "name": "spotmas",
+ "frame": [
+  346,
+  216
+ ],
+ "count": 1363,
+ "posScale": 10,
+ "sizeScale": 10,
+ "bytesPerPoint": 13,
+ "layers": [
+  {
+   "name": "layer · far",
+   "avgRGBA": [
+    125,
+    211,
+    228,
+    159
+   ]
+  },
+  {
+   "name": "layer · back",
+   "avgRGBA": [
+    124,
+    210,
+    227,
+    253
+   ]
+  },
+  {
+   "name": "layer · mid",
+   "avgRGBA": [
+    39,
+    160,
+    186,
+    212
+   ]
+  },
+  {
+   "name": "layer · front",
+   "avgRGBA": [
+    37,
+    154,
+    179,
+    255
+   ]
+  },
+  {
+   "name": "layer · near",
+   "avgRGBA": [
+    59,
+    182,
+    211,
+    255
+   ]
+  }
+ ]
+}

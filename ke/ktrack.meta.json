@@ -1,0 +1,58 @@
+{
+ "name": "ktrack",
+ "frame": [
+  346,
+  216
+ ],
+ "count": 699,
+ "posScale": 10,
+ "sizeScale": 10,
+ "bytesPerPoint": 13,
+ "layers": [
+  {
+   "name": "layer · far",
+   "avgRGBA": [
+    125,
+    210,
+    225,
+    169
+   ]
+  },
+  {
+   "name": "layer · back",
+   "avgRGBA": [
+    135,
+    212,
+    228,
+    254
+   ]
+  },
+  {
+   "name": "layer · mid",
+   "avgRGBA": [
+    39,
+    160,
+    185,
+    193
+   ]
+  },
+  {
+   "name": "layer · front",
+   "avgRGBA": [
+    37,
+    154,
+    179,
+    255
+   ]
+  },
+  {
+   "name": "layer · near",
+   "avgRGBA": [
+    53,
+    206,
+    218,
+    255
+   ]
+  }
+ ]
+}

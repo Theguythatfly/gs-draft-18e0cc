@@ -1,0 +1,58 @@
+{
+ "name": "trisure",
+ "frame": [
+  346,
+  216
+ ],
+ "count": 1364,
+ "posScale": 10,
+ "sizeScale": 10,
+ "bytesPerPoint": 13,
+ "layers": [
+  {
+   "name": "layer · far",
+   "avgRGBA": [
+    113,
+    208,
+    223,
+    173
+   ]
+  },
+  {
+   "name": "layer · back",
+   "avgRGBA": [
+    134,
+    209,
+    225,
+    252
+   ]
+  },
+  {
+   "name": "layer · mid",
+   "avgRGBA": [
+    40,
+    163,
+    187,
+    207
+   ]
+  },
+  {
+   "name": "layer · front",
+   "avgRGBA": [
+    25,
+    170,
+    191,
+    255
+   ]
+  },
+  {
+   "name": "layer · near",
+   "avgRGBA": [
+    28,
+    196,
+    209,
+    255
+   ]
+  }
+ ]
+}

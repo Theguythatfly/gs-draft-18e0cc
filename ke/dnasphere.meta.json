@@ -1,0 +1,76 @@
+{
+ "name": "dnasphere",
+ "frame": [
+  640,
+  640
+ ],
+ "count": 2119,
+ "posScale": 10,
+ "sizeScale": 10,
+ "bytesPerPoint": 13,
+ "layers": [
+  {
+   "name": "layer 0 · body glow",
+   "avgRGBA": [
+    43,
+    212,
+    249,
+    83
+   ]
+  },
+  {
+   "name": "layer 1 · far",
+   "avgRGBA": [
+    67,
+    213,
+    246,
+    206
+   ]
+  },
+  {
+   "name": "layer 2 · back",
+   "avgRGBA": [
+    62,
+    215,
+    248,
+    208
+   ]
+  },
+  {
+   "name": "layer 3 · mid",
+   "avgRGBA": [
+    66,
+    213,
+    245,
+    192
+   ]
+  },
+  {
+   "name": "layer 4 · front",
+   "avgRGBA": [
+    61,
+    213,
+    250,
+    180
+   ]
+  },
+  {
+   "name": "layer 5 · near",
+   "avgRGBA": [
+    64,
+    210,
+    251,
+    177
+   ]
+  },
+  {
+   "name": "layer 6 · sparkles",
+   "avgRGBA": [
+    157,
+    253,
+    239,
+    253
+   ]
+  }
+ ]
+}

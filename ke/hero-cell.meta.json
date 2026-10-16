@@ -1,0 +1,17 @@
+{
+ "name": "hero-cell",
+ "frame": [
+  802,
+  770
+ ],
+ "count": 7259,
+ "posScale": 10,
+ "sizeScale": 10,
+ "bytesPerPoint": 13,
+ "body": "hero-cell-body.png",
+ "nucleus": {
+  "x": 401,
+  "y": 408,
+  "r": 85
+ }
+}

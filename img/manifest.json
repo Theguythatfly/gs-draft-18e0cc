@@ -1,0 +1,167 @@
+{
+  "news-01-ktrack-asco": {
+    "width": 1200,
+    "height": 675,
+    "widths": [
+      320,
+      640,
+      960,
+      1200
+    ],
+    "types": [
+      "avif",
+      "webp",
+      "jpg"
+    ],
+    "fallback": "jpg"
+  },
+  "news-02-nccm-malaysia": {
+    "width": 1200,
+    "height": 675,
+    "widths": [
+      320,
+      640,
+      960,
+      1200
+    ],
+    "types": [
+      "avif",
+      "webp",
+      "jpg"
+    ],
+    "fallback": "jpg"
+  },
+  "news-03-thai-breast-symposium": {
+    "width": 1200,
+    "height": 675,
+    "widths": [
+      320,
+      640,
+      960,
+      1200
+    ],
+    "types": [
+      "avif",
+      "webp",
+      "jpg"
+    ],
+    "fallback": "jpg"
+  },
+  "news-04-spotmas-crc": {
+    "width": 1200,
+    "height": 675,
+    "widths": [
+      320,
+      640,
+      960,
+      1200
+    ],
+    "types": [
+      "avif",
+      "webp",
+      "jpg"
+    ],
+    "fallback": "jpg"
+  },
+  "news-05-gynecologic-symposium": {
+    "width": 1200,
+    "height": 675,
+    "widths": [
+      320,
+      640,
+      960,
+      1200
+    ],
+    "types": [
+      "avif",
+      "webp",
+      "jpg"
+    ],
+    "fallback": "jpg"
+  },
+  "news-06-esmo-2026": {
+    "width": 1080,
+    "height": 607,
+    "widths": [
+      320,
+      640,
+      960
+    ],
+    "types": [
+      "avif",
+      "webp",
+      "jpg"
+    ],
+    "fallback": "jpg"
+  },
+  "believe-01": {
+    "width": 2400,
+    "height": 1600,
+    "widths": [
+      480,
+      960,
+      1600
+    ],
+    "types": [
+      "avif",
+      "webp",
+      "jpg"
+    ],
+    "fallback": "jpg"
+  },
+  "believe-02": {
+    "width": 2400,
+    "height": 3600,
+    "widths": [
+      480,
+      960,
+      1600
+    ],
+    "types": [
+      "avif",
+      "webp",
+      "jpg"
+    ],
+    "fallback": "jpg"
+  },
+  "believe-03": {
+    "width": 2400,
+    "height": 1602,
+    "widths": [
+      480,
+      960,
+      1600
+    ],
+    "types": [
+      "avif",
+      "webp",
+      "jpg"
+    ],
+    "fallback": "jpg"
+  },
+  "cap-lab": {
+    "width": 638,
+    "height": 638,
+    "widths": [
+      638
+    ],
+    "types": [
+      "avif",
+      "webp",
+      "png"
+    ],
+    "fallback": "png"
+  },
+  "atmosphere": {
+    "width": 2208,
+    "height": 2760,
+    "widths": [
+      2208
+    ],
+    "types": [
+      "avif",
+      "webp"
+    ],
+    "fallback": null
+  }
+}

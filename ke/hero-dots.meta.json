@@ -1,0 +1,11 @@
+{
+ "name": "hero-dots",
+ "frame": [
+  1435,
+  702
+ ],
+ "count": 5206,
+ "posScale": 10,
+ "sizeScale": 10,
+ "bytesPerPoint": 13
+}
